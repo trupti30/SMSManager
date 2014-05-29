@@ -6,6 +6,7 @@ public class SMSData {
 		// SMS text body
 		private String body;
 		
+		//getter setter methods
 		public String getNumber() {
 			return number;
 		}
